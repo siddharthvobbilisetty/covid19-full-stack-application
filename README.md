@@ -1,5 +1,5 @@
 # Coronavirus - (COVID-19) Full Stack Application
-The idea behind this application is to displays the statistics of Coronavirus COVID-19 around the world and the data are being collected from [Johns Hopkins University Center for Systems Science and Engineering JHU CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) and it updates the cases constantly on this website around the world. 
+The idea behind this application is to displays the statistics of Coronavirus COVID-19 around the world and the data are being collected from  and it updates the cases constantly on this website around the world. 
 
 
 And it uses Mapbox to populate the coordinates on the map using GeoJSON format.
